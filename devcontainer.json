@@ -1,0 +1,6 @@
+{
+	"name": "recipe-app-api",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "app",
+	"workspaceFolder": "/app",
+}
